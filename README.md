@@ -21,5 +21,4 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=DecryptionLabs&icon=0&color=0)](https://visitcount.itsvg.in)
+
