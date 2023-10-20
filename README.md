@@ -10,8 +10,6 @@
 ![](https://github-trophies.vercel.app/?username=DecryptionLabs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://nestjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
